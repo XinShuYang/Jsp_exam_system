@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<mchoose> 
+  <id name="m0" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>x*x=1,x?</title>  
+    <answer> 
+      <A judge="1">1</A>  
+      <B judge="0">0</B>  
+      <C judge="1">-1</C>  
+      <D judge="0">2</D> 
+    </answer> 
+  </id>  
+  <id name="m1" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>y*y=4,y=?</title>  
+    <answer> 
+      <A judge="0">1</A>  
+      <B judge="1">2</B>  
+      <C judge="1">-2</C>  
+      <D judge="0">3</D> 
+    </answer> 
+  </id>  
+  <id name="m2" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>x*x=9,x=?</title>  
+    <answer> 
+      <A judge="1">3</A>  
+      <B judge="1">-3</B>  
+      <C judge="0">0</C>  
+      <D judge="0">5</D> 
+    </answer> 
+  </id>  
+  <id name="m3" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>a*a=16,a=?</title>  
+    <answer> 
+      <A judge="0">1</A>  
+      <B judge="0">2</B>  
+      <C judge="1">-4</C>  
+      <D judge="1">4</D> 
+    </answer> 
+  </id>  
+  <id name="m4" difficulty="1" points=""> 
+    <author>lxf</author>  
+    <title>x*x=100,x=?</title>  
+    <answer> 
+      <A judge="0">-20</A>  
+      <B judge="1">10</B>  
+      <C judge="1">-10</C>  
+      <D judge="0">20</D> 
+    </answer> 
+  </id>  
+  <id name="m5" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>x less than 6?answer x</title>  
+    <answer> 
+      <A judge="1">1</A>  
+      <B judge="1">2</B>  
+      <C judge="1">3</C>  
+      <D judge="0">7</D> 
+    </answer> 
+  </id>  
+  <id name="m6" difficulty="2" points="">
+    <author>lxf</author>
+    <title>Who is Tom</title>
+    <answer>
+      <A judge="1">Gavin</A>
+      <B judge="1">I don't know</B>
+      <C judge="0">bonobo</C>
+      <D judge="0">boring</D>
+    </answer>
+  </id>
+</mchoose>

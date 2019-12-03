@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<choose> 
+  <id name="c0" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>1+1=？</title>  
+    <answer> 
+      <A judge="0">1</A>  
+      <B judge="1">2</B>  
+      <C judge="0">3</C>  
+      <D judge="0">4</D> 
+    </answer> 
+  </id>  
+  <id name="c1" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>1*1=？</title>  
+    <answer> 
+      <A judge="1">1</A>  
+      <B judge="0">2</B>  
+      <C judge="0">3</C>  
+      <D judge="0">4</D> 
+    </answer> 
+  </id>  
+  <id name="c2" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>1-1=？</title>  
+    <answer> 
+      <A judge="0">1</A>  
+      <B judge="0">2</B>  
+      <C judge="0">3</C>  
+      <D judge="1">0</D> 
+    </answer> 
+  </id>  
+  <id name="c3" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>1/1=？</title>  
+    <answer> 
+      <A judge="1">1</A>  
+      <B judge="0">2</B>  
+      <C judge="0">3</C>  
+      <D judge="0">0</D> 
+    </answer> 
+  </id>  
+  <id name="c4" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>1+2=?</title>  
+    <answer> 
+      <A judge="0">1</A>  
+      <B judge="0">2</B>  
+      <C judge="1">3</C>  
+      <D judge="0">4</D> 
+    </answer> 
+  </id>  
+  <id name="c5" difficulty="1" points=""> 
+    <author>lxf</author>  
+    <title>9*9=?</title>  
+    <answer> 
+      <A judge="0">9</A>  
+      <B judge="1">81</B>  
+      <C judge="0">27</C>  
+      <D judge="0">36</D> 
+    </answer> 
+  </id>  
+  <id name="c6" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>3-4=?</title>  
+    <answer> 
+      <A judge="1">-1</A>  
+      <B judge="0">0</B>  
+      <C judge="0">1</C>  
+      <D judge="0">2</D> 
+    </answer> 
+  </id>  
+  <id name="c7" difficulty="1" points=""> 
+    <author>lxf</author>  
+    <title>5+8=?</title>  
+    <answer> 
+      <A judge="0">10</A>  
+      <B judge="0">11</B>  
+      <C judge="0">12</C>  
+      <D judge="1">13</D> 
+    </answer> 
+  </id>  
+  <id name="c8" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>9+9+9=?</title>  
+    <answer> 
+      <A judge="0">9</A>  
+      <B judge="0">18</B>  
+      <C judge="1">27</C>  
+      <D judge="0">36</D> 
+    </answer> 
+  </id>  
+  <id name="c9" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>90-100=？</title>  
+    <answer> 
+      <A judge="0">90</A>  
+      <B judge="0">100</B>  
+      <C judge="0">10</C>  
+      <D judge="1">-10</D> 
+    </answer> 
+  </id>  
+  <id name="c10" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>5-4=?</title>  
+    <answer> 
+      <A judge="1">1</A>  
+      <B judge="0">2</B>  
+      <C judge="0">3</C>  
+      <D judge="0">4</D> 
+    </answer> 
+  </id>  
+  <id name="c11" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>1+100-99=？</title>  
+    <answer> 
+      <A judge="0">1</A>  
+      <B judge="1">2</B>  
+      <C judge="0">3</C>  
+      <D judge="0">4</D> 
+    </answer> 
+  </id>  
+  <id name="c12" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>ttt</title>  
+    <answer> 
+      <A judge="1">12</A>  
+      <B judge="0">23</B>  
+      <C judge="0">34</C>  
+      <D judge="0">45</D> 
+    </answer> 
+  </id>  
+  <id name="c13" difficulty="0" points="">
+    <author>lxf</author>
+    <title>This is a test question</title>
+    <answer>
+      <A judge="1">12</A>
+      <B judge="0">23</B>
+      <C judge="0">34</C>
+      <D judge="0">45</D>
+    </answer>
+  </id>
+</choose>

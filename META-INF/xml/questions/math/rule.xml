@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rule>
+  <totalpoints>100</totalpoints>
+  <time>120</time>
+  <choosenum everypoints="10">3</choosenum>
+  <mchoosenum everypoints="10">3</mchoosenum>
+  <judgenum everypoints="10">3</judgenum>
+  <shortnum everypoints="10">1</shortnum>
+  <totalDifficulty>0</totalDifficulty>
+</rule>

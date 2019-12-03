@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<id> 
+  <id name="s0" difficulty="0" points=""> 
+    <author>lxf</author>  
+    <title>What is the best way to improve grade?</title>  
+    <answer>ok</answer> 
+  </id>  
+  <id name="s1" difficulty="0" points="">
+    <author>lxf</author>
+    <title>Do you have any suggestion for this class？</title>
+    <answer>ok</answer>
+  </id>
+</id>

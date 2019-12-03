@@ -1,0 +1,18 @@
+form.f1 table.upform {
+	font-size : 22px;
+	width: 150%;
+	height:60%;
+}
+.left {
+	width:10% ;
+	text-align:center;
+	
+}
+.right {
+	width:100% ;
+	text-align:center;
+	
+}
+.Option{
+	width:80%
+}
